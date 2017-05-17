@@ -275,6 +275,7 @@
 				TargetAttributes = {
 					AAA3C7D71CEBF963000F63D0 = {
 						CreatedOnToolsVersion = 7.1.1;
+						DevelopmentTeam = BN977NE94L;
 					};
 					AAA3C7F01CEBF963000F63D0 = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -535,6 +536,7 @@
 			baseConfigurationReference = 88F3A26CB9FBDEAE0107C1F6 /* Pods-FMDBDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BN977NE94L;
 				INFOPLIST_FILE = FMDBDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zenoV.FMDBDemo;
@@ -547,6 +549,7 @@
 			baseConfigurationReference = D946F0F36AD6A5CFD1833770 /* Pods-FMDBDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BN977NE94L;
 				INFOPLIST_FILE = FMDBDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zenoV.FMDBDemo;
